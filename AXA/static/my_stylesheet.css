@@ -1,0 +1,13 @@
+.Select-control{
+    background-color: inherit;
+    color: inherit;
+}
+.Select--multi .Select-value{
+    color: inherit;
+    background-color: inherit;
+}
+
+.Select-aria-only{
+    color: inherit;
+    background-color: inherit;
+}
